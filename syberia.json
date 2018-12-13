@@ -1,1 +1,31 @@
-{"addons": [{"title": "Magisk", "summary": "Magisk", "url": "\"http://tiny.cc/latestmagisk"}, {"title": "Magisk", "summary": "Magisk Uninstaller", "url": "http://tiny.cc/latestuninstaller"}], "filename": "syberia_mido-v2.0-20181212-1549-UNOFFICIAL.zip", "changelog": "Syberia OS updated!\n\nChangelog:\n1)Added Advanced Controls\n2)Added 3 Finger Screenshot\n3))Added Advanced Battery Info\n4)Fixed Edit QS Background is White\n5)Added 1080p ScreenRecording\n6)Added OTA\n7)5 new accents\n8)OTA Support\n9)All blobs updated... Thanks to @Nato66013\n10)Misc Improvements\n", "filesize": "547470743", "md5": "f36ef9ff413875d19614782b77c2f822", "build_date": "20181212", "device": "mido", "url": "https://downloads.sourceforge.net/project/yash089610/syberia/syberia_mido-v2.0-20181212-1549-UNOFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fyash089610%2Ffiles%2Fsyberia%2F&ts=1544631822&use_mirror=master", "donate_url": "https://syberiaos.com/links", "developer_url": "http://github.com/syberia-project", "news_url": "http://github.com/syberia-project", "developer": "Yash089610", "error": "false", "website_url": "http://syberiaos.com", "forum_url": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-syberia-project-t3846212", "device_brand": "Xiaomi", "device_model": "Redmi Note 4X Snapdragon"}
+{"addons": 
+ 
+ [{"title": "Magisk", 
+   "summary": "Magisk", 
+   "url": "\"http://tiny.cc/latestmagisk"}, 
+  
+  {"title": "Magisk", 
+   "summary": "Magisk Uninstaller", 
+   "url": "http://tiny.cc/latestuninstaller"}], 
+ 
+ "filename": "syberia_mido-v2.0-20181212-1549-UNOFFICIAL.zip", 
+ 
+ "changelog": "Syberia OS updated!\n\nChangelog:\n1)Added Advanced Controls\n2)Added 3 Finger Screenshot\n3))Added Advanced Battery Info\n4)Fixed Edit QS Background is White\n5)Added 1080p ScreenRecording\n6)Added OTA\n7)5 new accents\n8)OTA Support\n9)All blobs updated... Thanks to @Nato66013\n10)Misc Improvements\n", 
+ 
+ "filesize": "547470743", 
+ 
+ "md5": "f36ef9ff413875d19614782b77c2f822", 
+ 
+ "build_date": "20181212", 
+
+ "device": "mido", 
+ "url": "https://downloads.sourceforge.net/project/yash089610/syberia/syberia_mido-v2.0-20181212-1549-UNOFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fyash089610%2Ffiles%2Fsyberia%2F&ts=1544631822&use_mirror=master", 
+ "donate_url": "https://syberiaos.com/links", 
+ "developer_url": "http://github.com/syberia-project", 
+ "news_url": "http://github.com/syberia-project", 
+ "developer": "Yash089610", 
+ "error": "false", 
+ "website_url": "http://syberiaos.com", 
+ "forum_url": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-syberia-project-t3846212", 
+ "device_brand": "Xiaomi", 
+ "device_model": "Redmi Note 4X Snapdragon"}
